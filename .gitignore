@@ -1,3 +1,6 @@
 ﻿books.json
 __pycache__/
 .venv/
+books.json.tmp
+books.json.corrupt
+
